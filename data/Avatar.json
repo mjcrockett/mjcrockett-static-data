@@ -4,7 +4,7 @@
 		"Title": "Flames",
 		"Description": "Painting flames on things...",
 		"Audio": "flames.mp3",
-		"IsActive": false
+		"IsActive": true
 	},
 	{
 		"Id": 1002,
@@ -158,6 +158,13 @@
 		"Title": "Zombies",
 		"Description": "What are zombies?",
 		"Audio": "zombies.mp3",
+		"IsActive": true
+	},
+	{
+		"Id": 6019,
+		"Title": "Ventriloquists",
+		"Description": "Awkward moments in the lives of ventriloquists.",
+		"Audio": "ventriloquists.mp3",
 		"IsActive": true
 	}
 ]
