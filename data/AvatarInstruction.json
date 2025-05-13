@@ -21736,5 +21736,1331 @@
 		"AvatarId": 6019,
 		"Interval": "00:00:32.371",
 		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16286,
+		"AvatarId": 6020,
+		"Interval": "00:00:00",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16287,
+		"AvatarId": 6020,
+		"Interval": "00:00:01.166",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16288,
+		"AvatarId": 6020,
+		"Interval": "00:00:01.524",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16323,
+		"AvatarId": 6020,
+		"Interval": "00:00:01.621",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16324,
+		"AvatarId": 6020,
+		"Interval": "00:00:01.816",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16325,
+		"AvatarId": 6020,
+		"Interval": "00:00:01.990",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16326,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.186",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16327,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.251",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16328,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.469",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16329,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.556",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16330,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.686",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16331,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.730",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16332,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.847",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16333,
+		"AvatarId": 6020,
+		"Interval": "00:00:02.906",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16334,
+		"AvatarId": 6020,
+		"Interval": "00:00:03.097",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16335,
+		"AvatarId": 6020,
+		"Interval": "00:00:03.156",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16336,
+		"AvatarId": 6020,
+		"Interval": "00:00:03.494",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16337,
+		"AvatarId": 6020,
+		"Interval": "00:00:03.627",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16338,
+		"AvatarId": 6020,
+		"Interval": "00:00:03.774",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16339,
+		"AvatarId": 6020,
+		"Interval": "00:00:03.832",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16340,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.112",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16341,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.200",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16342,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.347",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16343,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.421",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16344,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.568",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16345,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.656",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16346,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.833",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16347,
+		"AvatarId": 6020,
+		"Interval": "00:00:04.892",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16348,
+		"AvatarId": 6020,
+		"Interval": "00:00:05.112",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16349,
+		"AvatarId": 6020,
+		"Interval": "00:00:05.186",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16350,
+		"AvatarId": 6020,
+		"Interval": "00:00:05.362",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16351,
+		"AvatarId": 6020,
+		"Interval": "00:00:05.436",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16352,
+		"AvatarId": 6020,
+		"Interval": "00:00:05.510",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16353,
+		"AvatarId": 6020,
+		"Interval": "00:00:05.554",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16289,
+		"AvatarId": 6020,
+		"Interval": "00:00:06.079",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":2,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-7,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16290,
+		"AvatarId": 6020,
+		"Interval": "00:00:06.302",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16354,
+		"AvatarId": 6020,
+		"Interval": "00:00:06.657",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16355,
+		"AvatarId": 6020,
+		"Interval": "00:00:06.804",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16356,
+		"AvatarId": 6020,
+		"Interval": "00:00:06.878",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16357,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.010",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16358,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.084",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16359,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.216",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16360,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.275",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16361,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.407",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16362,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.496",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16363,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.613",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16364,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.672",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16365,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.746",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16366,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.819",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16367,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.878",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16368,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.937",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16369,
+		"AvatarId": 6020,
+		"Interval": "00:00:07.996",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16370,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.040",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16371,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.113",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16372,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.172",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16373,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.305",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16374,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.364",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16375,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.408",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16376,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.511",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16377,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.702",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16378,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.731",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16379,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.805",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16380,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.849",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16381,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.952",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16382,
+		"AvatarId": 6020,
+		"Interval": "00:00:08.981",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16291,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.069",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":56,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16383,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.143",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":56,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16292,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.181",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":149,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16384,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.320",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":149,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16385,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.379",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":149,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16386,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.555",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":149,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16387,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.629",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":149,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16388,
+		"AvatarId": 6020,
+		"Interval": "00:00:09.864",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":4,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":149,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16293,
+		"AvatarId": 6020,
+		"Interval": "00:00:10.289",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":3,\"footLeftRotate\":8,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":5,\"legRightLowerRotate\":3,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":90,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16294,
+		"AvatarId": 6020,
+		"Interval": "00:00:10.439",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":1,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":44,\"armLeftUpperRotate\":-12,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16295,
+		"AvatarId": 6020,
+		"Interval": "00:00:10.606",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16296,
+		"AvatarId": 6020,
+		"Interval": "00:00:10.774",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16389,
+		"AvatarId": 6020,
+		"Interval": "00:00:10.923",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16390,
+		"AvatarId": 6020,
+		"Interval": "00:00:10.967",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16391,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.056",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16392,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.129",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16297,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.277",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16393,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.350",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16394,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.468",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16395,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.512",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16396,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.629",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16397,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.688",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16398,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.850",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16399,
+		"AvatarId": 6020,
+		"Interval": "00:00:11.938",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16400,
+		"AvatarId": 6020,
+		"Interval": "00:00:12.071",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16401,
+		"AvatarId": 6020,
+		"Interval": "00:00:12.130",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16402,
+		"AvatarId": 6020,
+		"Interval": "00:00:12.615",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"right\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":2,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":2,\"legRightLowerRotate\":1,\"legRightUpperRotate\":0,\"handLeftRotate\":-5,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16298,
+		"AvatarId": 6020,
+		"Interval": "00:00:12.857",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16299,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.205",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16403,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.395",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16404,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.454",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16405,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.483",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16406,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.542",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16407,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.660",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16408,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.689",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16409,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.777",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16410,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.821",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16411,
+		"AvatarId": 6020,
+		"Interval": "00:00:13.924",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16412,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.013",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16413,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.101",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16414,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.160",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16415,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.277",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16416,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.351",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16417,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.513",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16418,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.586",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16419,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.733",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":-14,\"leftShrug\":-14,\"headShrug\":0}"
+	},
+	{
+		"Id": 16300,
+		"AvatarId": 6020,
+		"Interval": "00:00:14.826",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16420,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.028",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16421,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.101",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16422,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.278",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16423,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.351",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16424,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.425",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16425,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.498",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16426,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.704",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16427,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.807",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16428,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.910",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16429,
+		"AvatarId": 6020,
+		"Interval": "00:00:15.954",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16430,
+		"AvatarId": 6020,
+		"Interval": "00:00:16.028",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16431,
+		"AvatarId": 6020,
+		"Interval": "00:00:16.072",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16301,
+		"AvatarId": 6020,
+		"Interval": "00:00:16.196",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":-8,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16432,
+		"AvatarId": 6020,
+		"Interval": "00:00:16.263",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":-8,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16433,
+		"AvatarId": 6020,
+		"Interval": "00:00:16.528",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":-8,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16434,
+		"AvatarId": 6020,
+		"Interval": "00:00:16.602",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":-8,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16302,
+		"AvatarId": 6020,
+		"Interval": "00:00:16.938",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16303,
+		"AvatarId": 6020,
+		"Interval": "00:00:17.174",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":0,\"armRightLowerRotate\":-32,\"armRightUpperRotate\":-7,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16304,
+		"AvatarId": 6020,
+		"Interval": "00:00:17.341",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16305,
+		"AvatarId": 6020,
+		"Interval": "00:00:17.844",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16435,
+		"AvatarId": 6020,
+		"Interval": "00:00:17.955",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16436,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.014",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16437,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.073",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16438,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.132",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16439,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.191",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16440,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.249",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16441,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.323",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16442,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.382",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16443,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.485",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16444,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.544",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16445,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.617",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16446,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.676",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16447,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.838",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16448,
+		"AvatarId": 6020,
+		"Interval": "00:00:18.911",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16449,
+		"AvatarId": 6020,
+		"Interval": "00:00:19.132",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16450,
+		"AvatarId": 6020,
+		"Interval": "00:00:19.176",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16451,
+		"AvatarId": 6020,
+		"Interval": "00:00:19.367",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16452,
+		"AvatarId": 6020,
+		"Interval": "00:00:19.441",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16453,
+		"AvatarId": 6020,
+		"Interval": "00:00:19.868",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16306,
+		"AvatarId": 6020,
+		"Interval": "00:00:20.723",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16454,
+		"AvatarId": 6020,
+		"Interval": "00:00:20.809",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16455,
+		"AvatarId": 6020,
+		"Interval": "00:00:20.927",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16456,
+		"AvatarId": 6020,
+		"Interval": "00:00:20.986",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16457,
+		"AvatarId": 6020,
+		"Interval": "00:00:21.103",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":-12,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16307,
+		"AvatarId": 6020,
+		"Interval": "00:00:21.533",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16458,
+		"AvatarId": 6020,
+		"Interval": "00:00:21.662",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16459,
+		"AvatarId": 6020,
+		"Interval": "00:00:21.721",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16460,
+		"AvatarId": 6020,
+		"Interval": "00:00:21.854",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16461,
+		"AvatarId": 6020,
+		"Interval": "00:00:21.927",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16462,
+		"AvatarId": 6020,
+		"Interval": "00:00:22.118",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16463,
+		"AvatarId": 6020,
+		"Interval": "00:00:22.163",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16464,
+		"AvatarId": 6020,
+		"Interval": "00:00:22.266",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16465,
+		"AvatarId": 6020,
+		"Interval": "00:00:22.324",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16466,
+		"AvatarId": 6020,
+		"Interval": "00:00:22.560",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"left\",\"headRotate\":4,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-5,\"handRightRotate\":10,\"armRightLowerRotate\":-72,\"armRightUpperRotate\":-14,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":11}"
+	},
+	{
+		"Id": 16308,
+		"AvatarId": 6020,
+		"Interval": "00:00:22.903",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":3,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":4,\"armRightLowerRotate\":-49,\"armRightUpperRotate\":4,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":6}"
+	},
+	{
+		"Id": 16309,
+		"AvatarId": 6020,
+		"Interval": "00:00:23.070",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":2,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":4,\"armRightLowerRotate\":-20,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16310,
+		"AvatarId": 6020,
+		"Interval": "00:00:23.238",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16467,
+		"AvatarId": 6020,
+		"Interval": "00:00:23.692",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16468,
+		"AvatarId": 6020,
+		"Interval": "00:00:23.766",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16469,
+		"AvatarId": 6020,
+		"Interval": "00:00:23.810",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16470,
+		"AvatarId": 6020,
+		"Interval": "00:00:23.898",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16471,
+		"AvatarId": 6020,
+		"Interval": "00:00:23.943",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16472,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.016",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16473,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.046",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16474,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.134",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16475,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.193",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16311,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.300",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-3,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16476,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.310",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-3,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16312,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.440",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16477,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.472",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16478,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.560",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16479,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.634",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16480,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.766",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16481,
+		"AvatarId": 6020,
+		"Interval": "00:00:24.825",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16482,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.046",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16483,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.105",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16484,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.208",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16485,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.281",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16486,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.384",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16487,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.443",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16488,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.605",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":-8,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16313,
+		"AvatarId": 6020,
+		"Interval": "00:00:25.949",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":73,\"armLeftUpperRotate\":-14,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16314,
+		"AvatarId": 6020,
+		"Interval": "00:00:26.145",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":138,\"armLeftUpperRotate\":-27,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16315,
+		"AvatarId": 6020,
+		"Interval": "00:00:26.284",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16489,
+		"AvatarId": 6020,
+		"Interval": "00:00:26.532",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16490,
+		"AvatarId": 6020,
+		"Interval": "00:00:26.679",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16491,
+		"AvatarId": 6020,
+		"Interval": "00:00:26.738",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16492,
+		"AvatarId": 6020,
+		"Interval": "00:00:26.855",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16493,
+		"AvatarId": 6020,
+		"Interval": "00:00:26.944",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16494,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.076",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16495,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.150",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16496,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.223",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16497,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.282",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16498,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.591",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16499,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.753",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16500,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.870",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16501,
+		"AvatarId": 6020,
+		"Interval": "00:00:27.929",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16502,
+		"AvatarId": 6020,
+		"Interval": "00:00:28.003",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16503,
+		"AvatarId": 6020,
+		"Interval": "00:00:28.062",
+		"InstructionJson": "{\"mouthOpen\":true,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16504,
+		"AvatarId": 6020,
+		"Interval": "00:00:28.194",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-12,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":8,\"footRightRotate\":4,\"legRightLowerRotate\":0,\"legRightUpperRotate\":-4,\"handLeftRotate\":0,\"armLeftLowerRotate\":173,\"armLeftUpperRotate\":-30,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-2,\"headShrug\":0}"
+	},
+	{
+		"Id": 16316,
+		"AvatarId": 6020,
+		"Interval": "00:00:29.034",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":-5,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":4,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":97,\"armLeftUpperRotate\":-16,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":-1,\"headShrug\":0}"
+	},
+	{
+		"Id": 16317,
+		"AvatarId": 6020,
+		"Interval": "00:00:29.191",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":71,\"armLeftUpperRotate\":-7,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16318,
+		"AvatarId": 6020,
+		"Interval": "00:00:29.303",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":34,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16319,
+		"AvatarId": 6020,
+		"Interval": "00:00:29.414",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16320,
+		"AvatarId": 6020,
+		"Interval": "00:00:29.973",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"left\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16321,
+		"AvatarId": 6020,
+		"Interval": "00:00:30.588",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16322,
+		"AvatarId": 6020,
+		"Interval": "00:00:30.979",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16505,
+		"AvatarId": 6020,
+		"Interval": "00:00:31.958",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"close\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
+	},
+	{
+		"Id": 16506,
+		"AvatarId": 6020,
+		"Interval": "00:00:32.181",
+		"InstructionJson": "{\"mouthOpen\":false,\"headTurn\":\"front\",\"eyes\":\"front\",\"headRotate\":0,\"neckRotate\":0,\"hipsRotate\":0,\"chestRotate\":0,\"footLeftRotate\":0,\"legLeftLowerRotate\":0,\"legLeftUpperRotate\":0,\"footRightRotate\":0,\"legRightLowerRotate\":0,\"legRightUpperRotate\":0,\"handLeftRotate\":0,\"armLeftLowerRotate\":0,\"armLeftUpperRotate\":0,\"handRightRotate\":0,\"armRightLowerRotate\":0,\"armRightUpperRotate\":0,\"rightShrug\":0,\"leftShrug\":0,\"headShrug\":0}"
 	}
 ]
